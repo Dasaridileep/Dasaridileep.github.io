@@ -38,4 +38,4 @@ This project is a fully functional E-commerce shopping website where users can b
 
 ---
 
-_This website is built using Markdown and hosted on GitHub Pages!_
+
